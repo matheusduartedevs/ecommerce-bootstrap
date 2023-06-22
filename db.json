@@ -3,26 +3,50 @@
         {
             "id": 1,
             "titulo": "Grand Theft Auto 5",
-            "resumo": "Resumo 1",
-            "preço": 100
+            "resumo": "Grand Theft Auto V para PC oferece aos jogadores a opção de explorar o gigantesco e premiado mundo de Los Santos e Blaine County em resoluções de até 4K e além, assim como a chance de experimentar o jogo rodando a 60 FPS",
+            "preço": 49.00
         },
         {
             "id": 2,
             "titulo": "Overwatch 2",
-            "resumo": "Resumo 2",
-            "preço": 50
+            "resumo": "Overwatch 2 é um jogo de ação em equipe grátis para jogar que se passa em um futuro otimista, no qual cada partida é um campo de batalha 5v5 definitivo.",
+            "preço": 19.90
         },
         {
             "id": 3,
             "titulo": "Resident Evil 4 Remake",
-            "resumo": "Resumo 4",
-            "preço": 30
+            "resumo": "Sobrevivência é apenas o começo. Seis anos se passaram desde o desastre biológico em Raccoon City. Leon S. Kennedy, um dos sobreviventes, segue o rastro da raptada filha do presidente até uma vila europeia isolada, onde há algo terrivelmente errado com os habitantes.",
+            "preço": 249.00
         },
         {
             "id": 4,
             "titulo": "The Witcher 3: The Wild Hunt",
-            "resumo": "Resumo 4",
-            "preço": 200
+            "resumo": "Você é Geralt de Rívia, mercenário matador de monstros. Você está em um continente devastado pela guerra e infestado de monstros para você explorar à vontade. Sua tarefa é encontrar Ciri, a Criança da Profecia — uma arma viva que pode alterar a forma do mundo.",
+            "preço": 99.90
+        },
+        {
+            "id": 5,
+            "titulo": "Red Dead Redempetion 2",
+            "resumo": "A épica aventura de mundo aberto da Rockstar Games aclamada pela crítica e o jogo mais bem avaliado desta geração de consoles, agora chega aprimorado para PC com conteúdos inéditos no Modo História, melhorias visuais e muito mais.",
+            "preço": 299.90
+        },
+        {
+            "id": 6,
+            "titulo": "Mafia: Definitive Edition",
+            "resumo": "Após um encontro com a máfia, o taxista Tommy Angelo entra para o mundo do crime. Apesar de relutar em se relacionar com a família Salieri, logo as oportunidades ficam grandes demais para ignorar.",
+            "preço": 229.90
+        },
+        {
+            "id": 7,
+            "titulo": "Forza Horizon 5",
+            "resumo": "Explore um mundo aberto vibrante nas terras mexicanas com corridas divertidas e sem limites enquanto pilota os melhores carros do mundo. Acelere para o Parque Hot Wheels e corra nas pistas mais radicais já criadas.",
+            "preço": 124.90
+        },
+        {
+            "id": 8,
+            "titulo": "Cyberpunk 2077",
+            "resumo": "Cyberpunk 2077 é um RPG de ação e aventura em mundo aberto que se passa em Night City, uma megalópole perigosa onde todos são obcecados por poder, glamour e alterações corporais.",
+            "preço": 199.90
         }
     ]
 }

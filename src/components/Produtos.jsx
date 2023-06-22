@@ -1,5 +1,6 @@
 import React from 'react'
 import { Button, Card } from 'react-bootstrap'
+import './Produtos.css'
 
 class Produtos extends React.Component {
     constructor(props) {
@@ -36,9 +37,9 @@ class Produtos extends React.Component {
                             <Card.Body>
                                 <Card.Title>{jogo.titulo}</Card.Title>
                                 <Card.Text>{jogo.resumo}</Card.Text>
-                                <Card.Text>{jogo.preço}</Card.Text>
-                                <Button variant="primary">Compre</Button>
+                                <Card.Text>R${jogo.preço}</Card.Text>
                             </Card.Body>
+                            <Button variant="primary">Compre</Button>
                         </Card>
                     )
                 }
