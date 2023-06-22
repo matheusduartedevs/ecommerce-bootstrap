@@ -1,0 +1,28 @@
+{
+    "jogos": [
+        {
+            "id": 1,
+            "titulo": "Grand Theft Auto 5",
+            "resumo": "Resumo 1",
+            "preço": 100
+        },
+        {
+            "id": 2,
+            "titulo": "Overwatch 2",
+            "resumo": "Resumo 2",
+            "preço": 50
+        },
+        {
+            "id": 3,
+            "titulo": "Resident Evil 4 Remake",
+            "resumo": "Resumo 4",
+            "preço": 30
+        },
+        {
+            "id": 4,
+            "titulo": "The Witcher 3: The Wild Hunt",
+            "resumo": "Resumo 4",
+            "preço": 200
+        }
+    ]
+}
